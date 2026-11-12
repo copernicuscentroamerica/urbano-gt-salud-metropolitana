@@ -1,3 +1,13 @@
+## Aviso institucional de actualización de cartera (Clúster Copernicus Urbano)
+
+En el marco de la consolidación de resultados empíricos del **Clúster de Asentamientos Humanos (Comunidad Urbana Copernicus Centroamérica)**, este espacio documental ha sido reemplazado en la cartera activa regional por la iniciativa desarrollada en **Colón, Panamá (`pa-colon`)**: **Comparador Multianual de Cobertura Urbana, Logística Portuaria y Expansión Territorial 2018–2024**.
+
+- [Abrir sitio principal de Colón, Panamá (urbano-pa-colon)](https://copernicuscentroamerica.github.io/urbano-pa-colon/)
+- [Abrir Geovisor Interactivo de Colón, Panamá](https://copernicuscentroamerica.github.io/urbano-pa-colon/aplicacion/)
+- [Abrir Comparador Multitemporal 2018–2024](https://copernicuscentroamerica.github.io/urbano-pa-colon/comparador/)
+- [Consultar Atlas Temático e Introducción Copernicus Urbano](https://copernicuscentroamerica.github.io/urbano-pa-colon/resultados/)
+- [Volver al Portal Regional del Clúster Copernicus Urbano](https://copernicuscentroamerica.github.io/clusterurbano/)
+
 # Guatemala metropolitana: información territorial para prevenir riesgos a la salud
 
 La iniciativa propone actualizar información de expansión urbana y exposición a inundaciones, deslizamientos y calor para apoyar la prevención de riesgos a la salud y la coordinación entre MSPAS y municipalidades.

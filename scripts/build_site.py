@@ -207,6 +207,16 @@ def render_shell(
 
   <main id="contenido-principal">
     <div class="container">
+      <div class="callout callout-warn" data-legacy-replacement-colon style="margin-top:1.25rem;border-left:5px solid #000A62;background:#F3F6FD;">
+        <strong style="color:#000A62;font-size:1.02rem;">Aviso del Clúster Copernicus Urbano · Iniciativa reemplazada en la cartera activa por Colón, Panamá (<code>pa-colon</code>)</strong>
+        <span>Esta iniciativa histórica ha sido sustituida en el portafolio activo regional por el proyecto <strong>Comparador Multianual de Cobertura Urbana, Logística Portuaria y Expansión en Colón, Panamá (2018–2024)</strong>. Accede directamente a los productos activos:</span>
+        <div style="display:flex;flex-wrap:wrap;gap:0.5rem;margin-top:0.6rem;">
+          <a class="btn btn-primary btn-xs" href="https://copernicuscentroamerica.github.io/urbano-pa-colon/">Ir al proyecto Colón, Panamá →</a>
+          <a class="btn btn-teal btn-xs" href="https://copernicuscentroamerica.github.io/urbano-pa-colon/aplicacion/">Abrir Geovisor Colón ↗</a>
+          <a class="btn btn-outline btn-xs" href="https://copernicuscentroamerica.github.io/urbano-pa-colon/resultados/">Abrir Atlas Colón ↗</a>
+          <a class="btn btn-outline btn-xs" href="https://copernicuscentroamerica.github.io/clusterurbano/">Portal Regional ↗</a>
+        </div>
+      </div>
       {body_html}
     </div>
   </main>
